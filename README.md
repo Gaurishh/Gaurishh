@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurish</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer eager to make impact</h3>
 
 - 🌱 I’m currently learning **Backend Development and AI Engineering**
 
