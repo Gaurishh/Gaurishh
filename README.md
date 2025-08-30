@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://gaurishsood.vercel.app](https://gaurishsood.vercel.app)
 
-- ⚡ Fun fact **I'm a semi professional beatboxer**
+- ⚡ Fun fact **I'm a semi-professional beatboxer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +23,7 @@
 <a href="https://www.leetcode.com/gaurishs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurishs" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gaurish_s12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gaurish_s12" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"
