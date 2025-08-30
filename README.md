@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://gaurishsood.vercel.app](https://gaurishsood.vercel.app)
 
-- ⚡ Fun fact **I can make drum sounds with my mouth**
+- ⚡ Fun fact **I'm a semi professional beatboxer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
