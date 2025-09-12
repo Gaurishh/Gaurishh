@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Algorithms and System Design**
 
-- 📫 How to reach me **9gaurish@gmail.com**
-
 - 📄 Know about my experiences [https://gaurishsood.vercel.app](https://gaurishsood.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
@@ -18,7 +16,8 @@
 <a href="https://instagram.com/gaurish_.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurish_.s" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gaurish_s12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurish_s12" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gaurishs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gaurishs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gaurishs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurishs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gaurishs" target="blank"
+><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurishs" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gaurish_s12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gaurish_s12" height="30" width="40" /></a>
 </p>
 
