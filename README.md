@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer eager to make impact</h3>
 
 - 🌱 I’m currently learning **Backend Development and AI Engineering**
-- 
+
 - 💬 Ask me about **Algorithms and System Design**
 
 - 📄 Know about my experiences [https://gaurishsood.vercel.app](https://gaurishsood.vercel.app)
