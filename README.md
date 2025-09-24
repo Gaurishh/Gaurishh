@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gaurish</h1>
-<h3 align="center">A passionate developer eager to make impact</h3>
 
 - 🌱 I’m currently learning **Backend Development and AI Engineering**
 
